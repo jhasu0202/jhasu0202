@@ -206,7 +206,11 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 </div>
 
 ---
+## 🐍 Contribution Graph
 
+<div align="center">
+  <img src="https://github.com/jhasu0202/jhasu0202/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!-- SECTION H: FOOTER / LET'S CONNECT -->
 ## 🤝 Let's Connect!
 

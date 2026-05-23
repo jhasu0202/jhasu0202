@@ -51,7 +51,7 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 - 📘 **Citrus Disease Detection Using Feature Engineering & Machine Learning**
   *IEEE Conference, 2024–25*
   Achieved 92% accuracy using HSV, GLCM, LBP + Random Forest on 2,027 images — demonstrating interpretable ML outperforms CNNs on small agricultural datasets.
-  [🔗 Live Demo](https://your-streamlit-demo-link) | [💻 GitHub](https://github.com/jhasu0202/citrus-disease-detection)
+  [🔗 Live Demo](https://citrus-disease-detection-cr6iiqj3enapgoqbucckpg.streamlit.app/) | [💻 GitHub](https://github.com/jhasu0202/citrus-disease-detection)
 
 ---
 
@@ -60,7 +60,7 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🍋 Citrus Disease Detection](https://github.com/jhasu0202/citrus-disease-detection) | IEEE published ML pipeline for citrus leaf disease classification — 92% accuracy on 2,027 images | Python, OpenCV, Random Forest, Streamlit |
+| [🍋 Citrus Disease Detection](https://github.com/jhasu0202/citrus-disease-detection) | IEEE published ML pipeline — 92% accuracy on 2,027 images · [🔗 Live Demo](https://citrus-disease-detection-cr6iiqj3enapgoqbucckpg.streamlit.app/) | IEEE published ML pipeline for citrus leaf disease classification — 92% accuracy on 2,027 images | Python, OpenCV, Random Forest, Streamlit |
 | [🏛️ Archaeological AI](https://github.com/jhasu0202/Archaeological-ai) | Satellite/drone image analysis pipeline for ruin detection — 87% IoU across 500 sq. km | U-Net, DeepLabV3+, YOLOv5, GeoPandas |
 | [🎉 EVEN'Z Event Platform](https://github.com/jhasu0202/evenz-event-platform) | Full-stack event management platform — 500+ events, 99.8% uptime, 1000+ concurrent requests | Node.js, Express, Oracle DB, JWT |
 | [🎙️ Virtual Voice Assistant](https://github.com/jhasu0202/Virtual-voice-assistant) | AI assistant with STT, TTS, NLP & facial recognition — 90% command accuracy, 95% face auth | Python, OpenCV, NLTK, SpeechRecognition |

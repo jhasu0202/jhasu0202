@@ -1,3 +1,5 @@
+# 🏏 Jhasveni Jamisetty — GitHub Profile README
+
 <!-- SECTION G: VISITOR COUNTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jhasu0202&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="jhasu0202" />
@@ -9,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
   <h1>Hey there! I'm Jhasveni Jamisetty</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th+Year+Engineering+Student+%F0%9F%8E%93;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;From+RGUKT+Ongole+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th+Year+Engineering+Student+%F0%9F%8E%93;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;From+RGUKT+Ongole+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,12 +25,46 @@
 
 I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Artificial Intelligence, Computer Vision, and Deep Learning**. I love turning complex problems into elegant, data-driven solutions — and I'm always building something new.
 
-- 🎓 **B.Tech** @ RGUKT Ongole — Final Year
+- 🎓 **B.Tech** @ RGUKT Ongole — Final Year | CGPA: **9.3/10**
+- 📄 **IEEE Published Researcher** — Citrus Disease Detection (2024–25)
 - 🤖 Obsessed with **Computer Vision**, **Multi-Object Tracking**, and **Semantic Segmentation**
 - 🌾 Exploring **Agricultural AI** to make tech work for farmers
 - 🔭 Currently diving deep into **LLMs**, **Transformers**, and **Diffusion Models**
 - 💬 Ask me about **YOLOv5**, **U-Net**, **PyTorch**, or anything AI/ML
 - ⚡ Fun fact: I debug in my sleep… and sometimes fix it too
+
+---
+
+<!-- SECTION: EXPERIENCE -->
+## 💼 Experience
+
+| Role | Company | Duration | Highlights |
+|------|---------|----------|------------|
+| 🔬 Deep Learning Intern | UptoSkills | Nov 2025 – Jan 2026 | Real-time chain-snatching detection — YOLO + ByteTrack, 95% accuracy, 30 FPS |
+| 🛰️ AI/ML Intern | Infosys Springboard | Oct 2025 – Dec 2025 | Archaeological site mapping — U-Net, DeepLabV3+, 87% IoU, 10,000+ images |
+
+---
+
+<!-- SECTION: PUBLICATIONS -->
+## 📄 Publications
+
+- 📘 **Citrus Disease Detection Using Feature Engineering & Machine Learning**
+  *IEEE Conference, 2024–25*
+  Achieved 92% accuracy using HSV, GLCM, LBP + Random Forest on 2,027 images — demonstrating interpretable ML outperforms CNNs on small agricultural datasets.
+  [🔗 Live Demo](https://your-streamlit-demo-link) | [💻 GitHub](https://github.com/jhasu0202/citrus-disease-detection)
+
+---
+
+<!-- SECTION: FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🍋 Citrus Disease Detection](https://github.com/jhasu0202/citrus-disease-detection) | IEEE published ML pipeline for citrus leaf disease classification — 92% accuracy on 2,027 images | Python, OpenCV, Random Forest, Streamlit |
+| [🏛️ Archaeological AI](https://github.com/jhasu0202/Archaeological-ai) | Satellite/drone image analysis pipeline for ruin detection — 87% IoU across 500 sq. km | U-Net, DeepLabV3+, YOLOv5, GeoPandas |
+| [🎉 EVEN'Z Event Platform](https://github.com/jhasu0202/evenz-event-platform) | Full-stack event management platform — 500+ events, 99.8% uptime, 1000+ concurrent requests | Node.js, Express, Oracle DB, JWT |
+| [🎙️ Virtual Voice Assistant](https://github.com/jhasu0202/Virtual-voice-assistant) | AI assistant with STT, TTS, NLP & facial recognition — 90% command accuracy, 95% face auth | Python, OpenCV, NLTK, SpeechRecognition |
+| [🏏 IPL SQL Analysis](https://github.com/jhasu0202/ipl-sql-analysis) | Sports analytics using advanced SQL — Orange/Purple Cap, win %, All-rounder Index | MySQL, Window Functions, Subqueries |
 
 ---
 
@@ -113,6 +149,22 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
   <img src="https://img.shields.io/badge/Agricultural%20AI-228B22?style=for-the-badge&logo=leaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Diffusion%20Models-9B59B6?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
+
+---
+
+<!-- SECTION: CERTIFICATIONS -->
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Python for Data Science — **Silver Medal** | NPTEL | 2024 |
+| Deep Learning | NPTEL / IIT | 2025 |
+| Cloud Computing | NPTEL IIT Kharagpur | 2025 |
+| AI: Search Methods & Problem Solving | NPTEL | 2024 |
+| Artificial Intelligence Fundamentals | Infosys Springboard | 2025 |
+| Data Analysis with Python | IBM | 2024 |
+| SQL — Basic, Intermediate & Advanced | HackerRank | 2024 |
+| Cybersecurity Fundamentals | Rinex | 2024 |
 
 ---
 

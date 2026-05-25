@@ -44,16 +44,6 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 
 ---
 
-<!-- SECTION: PUBLICATIONS -->
-## 📄 Publications
-
-- 📘 **Citrus Disease Detection Using Feature Engineering & Machine Learning**
-  *IEEE Conference, 2024–25*
-  Achieved 92% accuracy using HSV, GLCM, LBP + Random Forest on 2,027 images — demonstrating interpretable ML outperforms CNNs on small agricultural datasets.
-  [🔗 Live Demo](https://citrus-disease-detection-cr6iiqj3enapgoqbucckpg.streamlit.app/) | [💻 GitHub](https://github.com/jhasu0202/citrus-disease-detection)
-
----
-
 <!-- SECTION: FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 

@@ -1,4 +1,4 @@
-#  Jhasveni Jamisetty — GitHub Profile README
+# Jhasveni Jamisetty — GitHub Profile README
 
 <!-- SECTION G: VISITOR COUNTER -->
 <div align="center">
@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
   <h1>Hey there! I'm Jhasveni Jamisetty</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th+Year+Engineering+Student+%F0%9F%8E%93;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;From+RGUKT+Ongole+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th+Year+Engineering+Student+%F0%9F%8E%93;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Quantum+Computing+Explorer+%E2%9A%9B%EF%B8%8F;Building+Intelligent+Systems+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;From+RGUKT+Ongole+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,13 +23,14 @@
 
 > *"Engineering solutions at the intersection of AI, vision, and real-world impact."*
 
-I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Artificial Intelligence, Computer Vision, and Deep Learning**. I love turning complex problems into elegant, data-driven solutions — and I'm always building something new.
+I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Artificial Intelligence, Computer Vision, Deep Learning, and Quantum Computing**. I love turning complex problems into elegant, data-driven solutions — and I'm always building something new.
 
 - 🎓 **B.Tech** @ RGUKT Ongole — Final Year | CGPA: **9.3/10**
 - 🤖 Obsessed with **Computer Vision**, **Multi-Object Tracking**, and **Semantic Segmentation**
+- ⚛️ Exploring **Quantum Computing** with IBM Qiskit and Linux Foundation certifications
 - 🌾 Exploring **Agricultural AI** to make tech work for farmers
 - 🔭 Currently diving deep into **LLMs**, **Transformers**, and **Diffusion Models**
-- 💬 Ask me about **YOLOv5**, **U-Net**, **PyTorch**, or anything AI/ML
+- 💬 Ask me about **YOLOv5**, **U-Net**, **PyTorch**, **Qiskit**, or anything AI/ML
 - ⚡ Fun fact: I debug in my sleep… and sometimes fix it too
 
 ---
@@ -49,7 +50,7 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🍋 Citrus Disease Detection](https://github.com/jhasu0202/citrus-disease-detection) |ML pipeline — 92% accuracy on 2,027 images · [🔗 Live Demo](https://citrus-disease-detection-cr6iiqj3enapgoqbucckpg.streamlit.app/) | IEEE published ML pipeline for citrus leaf disease classification — 92% accuracy on 2,027 images | Python, OpenCV, Random Forest, Streamlit |
+| [🍋 Citrus Disease Detection](https://github.com/jhasu0202/citrus-disease-detection) | IEEE published ML pipeline for citrus leaf disease classification — 92% accuracy on 2,027 images · [🔗 Live Demo](https://citrus-disease-detection-cr6iiqj3enapgoqbucckpg.streamlit.app/) | Python, OpenCV, Random Forest, Streamlit |
 | [🏛️ Archaeological AI](https://github.com/jhasu0202/Archaeological-ai) | Satellite/drone image analysis pipeline for ruin detection — 87% IoU across 500 sq. km | U-Net, DeepLabV3+, YOLOv5, GeoPandas |
 | [🎉 EVEN'Z Event Platform](https://github.com/jhasu0202/evenz-event-platform) | Full-stack event management platform — 500+ events, 99.8% uptime, 1000+ concurrent requests | Node.js, Express, Oracle DB, JWT |
 | [🎙️ Virtual Voice Assistant](https://github.com/jhasu0202/Virtual-voice-assistant) | AI assistant with STT, TTS, NLP & facial recognition — 90% command accuracy, 95% face auth | Python, OpenCV, NLTK, SpeechRecognition |
@@ -81,6 +82,14 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
   <img src="https://img.shields.io/badge/CNNs-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Transfer%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### ⚛️ Quantum Computing
+<p align="left">
+  <img src="https://img.shields.io/badge/Quantum%20Computing-0062CC?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20Circuits-00B4D8?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20Gates-7B2FBE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ### 👁️ Computer Vision
@@ -137,6 +146,7 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
   <img src="https://img.shields.io/badge/MLOps-0175C2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Agricultural%20AI-228B22?style=for-the-badge&logo=leaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Diffusion%20Models-9B59B6?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-0062CC?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ---
@@ -146,14 +156,18 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| Python for Data Science — **Silver Medal** | NPTEL | 2024 |
-| Deep Learning | NPTEL / IIT | 2025 |
-| Cloud Computing | NPTEL IIT Kharagpur | 2025 |
-| AI: Search Methods & Problem Solving | NPTEL | 2024 |
-| Artificial Intelligence Fundamentals | Infosys Springboard | 2025 |
-| Data Analysis with Python | IBM | 2024 |
-| SQL — Basic, Intermediate & Advanced | HackerRank | 2024 |
-| Cybersecurity Fundamentals | Rinex | 2024 |
+| ⚛️ Fundamentals of Quantum Computing (LFQ101) | Linux Foundation | 2026 |
+| ⚛️ Quantum Enigmas | IBM SkillsBuild | 2026 |
+| ⚛️ Exploring Quantum Computing | IBM SkillsBuild | 2026 |
+| 🐍 Python for Data Science | Reliance Foundation / Skill India (NSDC) | 2026 |
+| 🥈 Python for Data Science — **Silver Medal** | NPTEL | 2024 |
+| 🧠 Deep Learning | NPTEL / IIT | 2025 |
+| ☁️ Cloud Computing | NPTEL IIT Kharagpur | 2025 |
+| 🤖 AI: Search Methods & Problem Solving | NPTEL | 2024 |
+| 💡 Artificial Intelligence Fundamentals | Infosys Springboard | 2025 |
+| 📊 Data Analysis with Python | IBM | 2024 |
+| 🗄️ SQL — Basic, Intermediate & Advanced | HackerRank | 2024 |
+| 🔐 Cybersecurity Fundamentals | Rinex | 2024 |
 
 ---
 
@@ -195,6 +209,7 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 </div>
 
 ---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -203,13 +218,12 @@ I'm a **4th-year B.Tech student at RGUKT Ongole**, deeply passionate about **Art
 
 ---
 
----
 <!-- SECTION H: FOOTER / LET'S CONNECT -->
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-I'm always open to collaborating on **AI/ML projects**, **research**, or **internship opportunities**. Feel free to reach out!
+I'm always open to collaborating on **AI/ML projects**, **Quantum Computing research**, or **internship opportunities**. Feel free to reach out!
 
 <br/>
 

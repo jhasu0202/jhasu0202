@@ -10,7 +10,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <h1>Hey there! I'm Jhasveni Jamisetty</h1>
+  <h1>Hey there! I'm Jhasveni Jamisetty </h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th+Year+Engineering+Student+%F0%9F%8E%93;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Quantum+Computing+Explorer+%E2%9A%9B%EF%B8%8F;Building+Intelligent+Systems+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;From+RGUKT+Ongole+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
